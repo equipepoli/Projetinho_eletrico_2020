@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BajaPoli</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Equipe Poli de Baja</string>
+    <string name="nav_header_subtitle">equipepoli@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_forum">Forum</string>
+    <string name="menu_settings">Configurações dos Carros</string>
+    <string name="menu_noticias">Noticias</string>
+    <string name="boasvindas">Bem-vindos ao nosso aplicativo!\n
+        Veja as notícias mais recentes da equipe.</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
